@@ -1,0 +1,8 @@
+**High Level Requirements-**  Complex and imaginary numbers can be calculated in the complex mode, math print is used to display the result
+
+**Low Level Requirements-**
+
+| **Requirement** | **Description** |
+| --- | --- |
+| Complex mode | It is used to calculate with the real and imaginary numbers in a single mode. |
+| Math Print | It takes the input, calculates it and shows the result as well as the input together. |
