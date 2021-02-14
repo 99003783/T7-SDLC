@@ -25,7 +25,9 @@ Scientific Calculators: These calculators can perform higher arithmetic and trig
 
 ![sc](https://user-images.githubusercontent.com/78848590/107873754-c6131f80-6eda-11eb-921f-e3a1f8cf6cbb.png)
 
-Graphing Calculators: This is to perform graphical calculation by plotting a graph and has some functions of the scientific calculator. It has quiet a big display and resolution than the others.
+Graphing Calculators: This is to perform graphical calculation by plotting a graph and has some functions of the scientific calculator. It has quiet a big display and resolution than the others. Their range varies between Rs. 10000 to Rs. 20000 according to features and diffrent brands.
+
+![fc](https://user-images.githubusercontent.com/78848590/107873834-7e40c800-6edb-11eb-857c-bcdcb65f3e75.png)
 
 Financial Calculators: A financial calculator is a calculator that performs financial functions commonly needed in business. For many direct financial calculations it has standalone keys that differentiate it from standard calculators. It may allow the user to program functions that the manufacturer has not provided by default.
 
