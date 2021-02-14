@@ -21,7 +21,9 @@ These calculators most commonly comes in LCD display capacity of 8 digits to 12 
 
 ![bc](https://user-images.githubusercontent.com/78848590/107873607-be06b000-6ed9-11eb-840a-e9fa9f5096e4.png)
 
-Scientific Calculators: These calculators can perform higher arithmetic and trigonometric calculations. It is generally used by higher education students and engineers. 240+ functions makes it easy to perform all types of scientific calculations.
+Scientific Calculators: These calculators can perform higher arithmetic and trigonometric calculations. It is generally used by higher education students and engineers. 240+ functions makes it easy to perform all types of scientific calculations. Their range varies between Rs. 500 to Rs. 1000 depending on the features and brands.
+
+![sc](https://user-images.githubusercontent.com/78848590/107873754-c6131f80-6eda-11eb-921f-e3a1f8cf6cbb.png)
 
 Graphing Calculators: This is to perform graphical calculation by plotting a graph and has some functions of the scientific calculator. It has quiet a big display and resolution than the others.
 
