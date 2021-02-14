@@ -25,11 +25,14 @@ Scientific Calculators: These calculators can perform higher arithmetic and trig
 
 ![sc](https://user-images.githubusercontent.com/78848590/107873754-c6131f80-6eda-11eb-921f-e3a1f8cf6cbb.png)
 
-Graphing Calculators: This is to perform graphical calculation by plotting a graph and has some functions of the scientific calculator. It has quiet a big display and resolution than the others. Their range varies between Rs. 10000 to Rs. 20000 according to features and diffrent brands.
+Graphing Calculators: This is to perform graphical calculation by plotting a graph and has some functions of the scientific calculator. It has quiet a big display and resolution than the others. Their range varies between Rs. 10000 to Rs. 20000 according to features and diffrent brands. 
 
-![fc](https://user-images.githubusercontent.com/78848590/107873834-7e40c800-6edb-11eb-857c-bcdcb65f3e75.png)
+![gc](https://user-images.githubusercontent.com/78848590/107873967-4c7c3100-6edc-11eb-87b4-c914ecf70557.png)
 
-Financial Calculators: A financial calculator is a calculator that performs financial functions commonly needed in business. For many direct financial calculations it has standalone keys that differentiate it from standard calculators. It may allow the user to program functions that the manufacturer has not provided by default.
+Financial Calculators: A financial calculator is a calculator that performs financial functions commonly needed in business. For many direct financial calculations it has standalone keys that differentiate it from standard calculators. It may allow the user to program functions that the manufacturer has not provided by default. Their range varies from Rs. 3000 to Rs. 5000 in accordance to the brands and features.
 
-Printing Calculators: These are similar to basic calculator that makes basic arithmetic calculation but has in-built printer to print the data and results in structured way. It is generally used in businesses where immediate print copy has to be made.
+![fc](https://user-images.githubusercontent.com/78848590/107873914-e7284000-6edb-11eb-9ab8-63c62ee2708b.png)
 
+Printing Calculators: These are similar to basic calculator that makes basic arithmetic calculation but has in-built printer to print the data and results in structured way. It is generally used in businesses where immediate print copy has to be made. Their rang varies from Rs. 1000 to Rs. 5000 according to the size, features and brands.
+
+![pc](https://user-images.githubusercontent.com/78848590/107874017-a8df5080-6edc-11eb-8541-399cb56c9389.png)
