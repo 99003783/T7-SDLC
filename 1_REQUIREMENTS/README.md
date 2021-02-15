@@ -36,3 +36,24 @@ Financial Calculators: A financial calculator is a calculator that performs fina
 Printing Calculators: These are similar to basic calculator that makes basic arithmetic calculation but has in-built printer to print the data and results in structured way. It is generally used in businesses where immediate print copy has to be made. Their rang varies from Rs. 1000 to Rs. 5000 according to the size, features and brands.
 
 ![pc](https://user-images.githubusercontent.com/78848590/107874017-a8df5080-6edc-11eb-8541-399cb56c9389.png)
+
+
+Calculator                    Cost                   Features
+Basic                         170                   Addition, Subtraction, Multiplication and Division
+Scientific                    750                   log, natural log and trignometric functions
+Engineer scientific           1600                  42 built-in Physical Constants
+Financial                     3000                  The financial calculators usually have five important keys that represent the 'variables'
+Printing                      5000                  You can press TIME key to display current time and date. You can press REPRINT key to reprint operation and calculation results.
+Graphical                     11800                 plot graphs and even solve equations
+Programmable Scientific       15000                 Programmable Scientific Calculator with 664 Functions.With Natural Textbook Display so your functions and equations look same as in your textbook.Probability, Calculus, Permutation Combination, Random Number Calculation features.Statistics (List-based Statistics, Standard deviation, Regression analysis)
+
+
+![IMG_20210215_095604](https://user-images.githubusercontent.com/78848639/107906175-7c781280-6f76-11eb-889d-94b9af9ec8c1.jpg)
+
+
+
+
+Defining the system:
+A Smart Calculator is a calculator i.e, portable and is used to perform complex problems.
+Here we can perform arithmetic operations, trignometric operations, logarithmic operations, exponential functions and root functions.
+
