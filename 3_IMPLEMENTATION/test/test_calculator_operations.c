@@ -70,7 +70,7 @@ void test_divide(void) {
 }
 
 void test_squareroot(void) {
-  TEST_ASSERT_EQUAL(14, sqrt(196));
+  TEST_ASSERT_EQUAL(14, srt(196));
 }
 void test_btod(void) {
   TEST_ASSERT_EQUAL(18, btod(10010));
