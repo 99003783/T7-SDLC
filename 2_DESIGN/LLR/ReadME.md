@@ -12,7 +12,9 @@
 ![LLR Use case](https://user-images.githubusercontent.com/78848639/107921577-b9530200-6f94-11eb-95ba-b45386fa6631.jpg)
 
 ![LLR_component](https://user-images.githubusercontent.com/78848590/107947738-d1d51380-6fb8-11eb-9475-75a9878273d0.png)
+                                            Component Diagram
 
 ![LLR_deployment](https://user-images.githubusercontent.com/78848590/107947759-de596c00-6fb8-11eb-8381-a6dde1a08abe.png)
+                                            Deployment Diagram
 
 
