@@ -1,0 +1,8 @@
+| **Test case ID** | **Description** | **Input** | **Expected output** |
+| --- | --- | --- | --- |
+| Math print | For the calculation 2 no.s should be given | 2 3 | 2+ 3------ 5 |
+|
+ | For the calculation both no.s should be of same data type. | Integer, floatorfloat, integer | Data types doesn&#39;t match |
+| Complex Number | For executing this 4 no.s should be given as input 2 for reals and 2 for imaginary | First complex no. 2,3Second complex no 3,4
+
+ | 5+4i |
