@@ -42,5 +42,6 @@ int power(int b, int e){
     {
         pow = pow*b;
         e--;
+        return pow;
     }
 }
