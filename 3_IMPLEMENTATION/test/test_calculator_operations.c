@@ -13,6 +13,7 @@ void test_multiply(void);
 void test_divide(void);
 void test_squareroot(void);
 void test_btod(void);
+void test_power(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -33,6 +34,7 @@ int main()
   RUN_TEST(test_divide);
   RUN_TEST(test_squareroot);
   RUN_TEST(test_btod);
+  RUN_TEST(test_power);
 
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -74,4 +76,7 @@ void test_squareroot(void) {
 }
 void test_btod(void) {
   TEST_ASSERT_EQUAL(18, btod(10010));
+}
+void test_power(void){
+  TEST_ASSERT_EQUAL(1728, pow(12,3));
 }

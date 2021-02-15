@@ -36,3 +36,11 @@ int srt(int n)
 {
     return sqrt(n);
 }
+int power(int b, int e){
+    int pow=1;
+    while(e>0)
+    {
+        pow = pow*b;
+        e--;
+    }
+}

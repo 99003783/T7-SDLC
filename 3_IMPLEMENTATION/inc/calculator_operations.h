@@ -47,5 +47,6 @@ int divide(int operand1, int operand2);
 
 int srt(int operand1);
 int btod(long long operand1);
+int power(int operand1, int operand2);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
