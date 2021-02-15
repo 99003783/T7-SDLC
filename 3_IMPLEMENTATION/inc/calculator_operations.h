@@ -9,10 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include <stdio_ext.h>
-<<<<<<< HEAD
-=======
 #include <math.h>
->>>>>>> Aman
 
 /**
 *  adds the operand1 and operand2 and returns the result
@@ -47,5 +44,8 @@ int multiply(int operand1, int operand2);
 * @note returns 0 for divide by 0 error
 */
 int divide(int operand1, int operand2);
+
+int srt(int operand1);
+int btod(long long operand1);
 
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
