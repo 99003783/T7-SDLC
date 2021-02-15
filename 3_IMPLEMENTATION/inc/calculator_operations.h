@@ -9,6 +9,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include <stdio_ext.h>
+<<<<<<< HEAD
+=======
+#include <math.h>
+>>>>>>> Aman
 
 /**
 *  adds the operand1 and operand2 and returns the result

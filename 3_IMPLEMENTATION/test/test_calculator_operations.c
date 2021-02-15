@@ -11,6 +11,8 @@ void test_add_testcase2(void);
 void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
+void test_squareroot(void);
+void test_btod(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -29,6 +31,8 @@ int main()
   RUN_TEST(test_subtract);
   RUN_TEST(test_multiply);
   RUN_TEST(test_divide);
+  RUN_TEST(test_squareroot);
+  RUN_TEST(test_btod);
 
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -63,4 +67,11 @@ void test_divide(void) {
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(3, divide(2, 2));
+}
+
+void test_squareroot(void) {
+  TEST_ASSERT_EQUAL(14, srt(196));
+}
+void test_btod(void) {
+  TEST_ASSERT_EQUAL(18, btod(10010));
 }

@@ -11,9 +11,14 @@ unsigned int calculator_operation = 0;
 /* Operands on which calculation is performed */
 int calculator_operand1 = 0;
 int calculator_operand2 = 0;
+long long n;
 
 /* Valid operations */
+<<<<<<< HEAD
 enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, MODULUS, EXIT };
+=======
+enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, SQUAREROOT, BINARYTODECIMAL, EXIT};
+>>>>>>> Aman
 
 /* Display the menu of operations supported */
 void calculator_menu(void);
@@ -34,7 +39,11 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
+<<<<<<< HEAD
     printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5.Modulus Exit");
+=======
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Square root\n6. Binary to Decimal\n7. Exit");
+>>>>>>> Aman
     printf("\n\tEnter your choice\n");
    
      // __fpurge(stdin);
@@ -45,7 +54,17 @@ void calculator_menu(void)
         printf("\nThank you. Exiting the Application\n");
         exit(0);
     }
-
+    if(SQUAREROOT == calculator_operation)
+    {
+        printf("\nEnter a number\n");
+        scanf("%d", &calculator_operand1);
+    }
+    if(BINARYTODECIMAL == calculator_operation)
+    {
+        printf("\nEnter a number\n");
+        scanf("%lld", &n);
+    }
+   
     if(INVALID != valid_operation(calculator_operation))
     {
         printf("\n\tEnter your Numbers with space between them\n");
@@ -98,10 +117,22 @@ void calculator_menu(void)
             // __fpurge(stdin);
             getchar();
             break;
+<<<<<<< HEAD
         case MODULUS:
             printf("\n\t%d mod %d = %d\nEnter to continue",
             calculator_operand1,calculator_operand2,modulus(calculator_operand1, calculator_operand2));
         case 6:
+=======
+        case BINARYTODECIMAL:
+            printf("\n\t%d = %d\nEnter to continue",
+            calculator_operand1,
+            btod(n));
+        case SQUAREROOT:
+            printf("\n\t%d = %d\nEnter to continue",
+            calculator_operand1,
+            srt(calculator_operand1));    
+        case 7:
+>>>>>>> Aman
             exit(0);
             break;
         default:
