@@ -87,6 +87,6 @@ int main()
     printf("cuberoot of  %f is %.2f\n",input,cuberoot_value);
     break;
     default:
-    printf("Invalid input!!! Please choose the correct option\n");
+    printf("Invalid input! Please choose the correct option\n");
     break;
  }
