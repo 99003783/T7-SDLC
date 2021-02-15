@@ -13,4 +13,6 @@ Low LEVEL REQUIREMENTS
 ![Sequence LLR](https://user-images.githubusercontent.com/78848745/107907015-94e92c80-6f78-11eb-8559-e87300d7478f.png)
 
 
+![LLR Object](https://user-images.githubusercontent.com/78848639/107921574-b8ba6b80-6f94-11eb-87e8-538dda962c3b.jpg)
+![LLR Use case](https://user-images.githubusercontent.com/78848639/107921577-b9530200-6f94-11eb-95ba-b45386fa6631.jpg)
 
