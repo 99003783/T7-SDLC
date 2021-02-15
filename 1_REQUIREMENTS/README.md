@@ -48,6 +48,7 @@ Graphical                     11800                 plot graphs and even solve e
 Programmable Scientific       15000                 Programmable Scientific Calculator with 664 Functions.With Natural Textbook Display so your functions and equations look same as in your textbook.Probability, Calculus, Permutation Combination, Random Number Calculation features.Statistics (List-based Statistics, Standard deviation, Regression analysis)
 
 
+![IMG_20210215_095604](https://user-images.githubusercontent.com/78848639/107906175-7c781280-6f76-11eb-889d-94b9af9ec8c1.jpg)
 
 
 
