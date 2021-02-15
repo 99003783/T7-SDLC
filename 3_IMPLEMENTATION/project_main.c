@@ -14,7 +14,7 @@ int calculator_operand2 = 0;
 long long n;
 
 /* Valid operations */
-enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, MODULUS, SQUAREROOT, BINARYTODECIMAL, EXIT };
+enum operations{ ADD=1, SUBTRACT, MULTIPLY, DIVIDE, MODULUS, SQUAREROOT, BINARYTODECIMAL, POWER, EXIT };
 
 
 /* Display the menu of operations supported */
@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5.Modulus\n6. Square root\n7. Binary to Decimal\n8. Exit");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5.Modulus\n6. Square root\n7. Binary to Decimal\n8. Power\n9. Exit");
 
     printf("\n\tEnter your choice\n");
    
@@ -123,6 +123,11 @@ void calculator_menu(void)
             printf("\n\t%d = %d\nEnter to continue",
             calculator_operand1,
             srt(calculator_operand1));    
+        case POWER:
+            printf("\n\t%d = %d\nEnter to continue",
+            calculator_operand1,
+            calculator_operand2,
+            power(calculator_operand1, calculator_operand2));
         case 9:
             exit(0);
             break;
