@@ -49,7 +49,7 @@ Programmable Scientific       15000                 Programmable Scientific Calc
 
 
 
-![cost vs features](https://user-images.githubusercontent.com/78848639/107905377-7bde7c80-6f74-11eb-822a-302f38b28de7.jpg)
+
 
 
 Defining the system:
