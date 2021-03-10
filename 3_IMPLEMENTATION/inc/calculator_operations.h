@@ -45,6 +45,8 @@ int multiply(int operand1, int operand2);
 */
 int divide(int operand1, int operand2);
 
+int modulus(int input1,int input2);//Modulus function
+
 int srt(int operand1);
 int btod(long long operand1);
 int power(int operand1, int operand2);
