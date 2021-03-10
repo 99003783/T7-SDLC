@@ -1,10 +1,9 @@
 Requirements
 
-Introduction
+Introduction-
 Calculator is a small, portable electronic device used to perform basic and complex operations of arithmetic. The common components of calculator are keypad, LCD Display, Battery or solar cell. 
 
-Research
-
+Research-
 Some of the most popular calculator types are listed below.
  
 Basic Calculators
@@ -53,11 +52,11 @@ Programmable Scientific       15000                 Programmable Scientific Calc
 
 
 
-Defining the system:
+Defining the system-
 A Smart Calculator is a calculator i.e, portable and is used to perform complex problems.
 Here we can perform arithmetic operations, trignometric operations, logarithmic operations, exponential functions and root functions.
 
-4W&1H:
+4W&1H-
 
 What: User friendly and pocket friendly Calculator.
 
