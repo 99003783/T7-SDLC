@@ -58,10 +58,15 @@ A Smart Calculator is a calculator i.e, portable and is used to perform complex 
 Here we can perform arithmetic operations, trignometric operations, logarithmic operations, exponential functions and root functions.
 
 4W&1H:
+
 What: User friendly and pocket friendly Calculator.
+
 Who: People of any age group can use the calculator as it is user friendly i.e, students in schools and colleges, Officer’s in industries, self- employees.
+
 When: It is used for students for saving time and for Officer’s, employees for complex calculations (use Scientific calculator), physics formulae for students.
+
 Why: For saving time.
+
 How: By operating manually for analog calculators and using screen touch for smart calculators.
 
 
