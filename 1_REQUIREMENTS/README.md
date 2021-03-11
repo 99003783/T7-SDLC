@@ -76,8 +76,17 @@ How: By operating manually for analog calculators and using screen touch for sma
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description 
+ 
+-- ID  | Description 
+HLR_1  |Arithmatic Operations
+HLR_2  |Trigonometric Operations
+HLR_3  |Logarithmic Operations and cube root 
+HLR_4  |Mathprint
+HLR_5  |Roots & Power
+HLR_6  |Memory Storage
+HLR_7  |Binary to Decimal
+HLR_8  |Complex Numbers
+
 
 
 ##  Low level Requirements:
