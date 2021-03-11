@@ -2,6 +2,10 @@ Desigs:
 
 High Level-
 
+State Machine-
+![HLR_state machine](https://user-images.githubusercontent.com/78848590/110743467-14a7a580-825e-11eb-9817-8aaeeab72eca.png)
+
+
 Low Level-
 
 Component Diagram-
