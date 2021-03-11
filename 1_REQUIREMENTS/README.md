@@ -38,7 +38,7 @@ Printing Calculators: These are similar to basic calculator that makes basic ari
 
 
 |Calculator                    |Cost         | Features                                                                                                               |
-| :-:                          | :-:                                                                                                                                  |
+| :-:                          | :-:         | :-:                                                                                                                        |
 |Basic                         |170          |Addition, Subtraction, Multiplication and Division                                                                      |
 |Scientific                    |750          |log, natural log and trignometric functions                                                                             |
 |Engineer scientific           |1600         |42 built-in Physical Constants                                                                                          |
