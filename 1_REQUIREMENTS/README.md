@@ -78,6 +78,7 @@ How: By operating manually for analog calculators and using screen touch for sma
 ## High Level Requirements:
  
 | ID    | Description                        |
+| :-:   | :-:                                |
 |HLR_1  |Arithmatic Operations               |
 |HLR_2  |Trigonometric Operations            |
 |HLR_3  |Logarithmic Operations and cube root| 
