@@ -81,7 +81,10 @@ How: By operating manually for analog calculators and using screen touch for sma
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description 
+
+|Requirement                 |Description                                                                                                                                      |
+| :-:                        | :-:                                                                                                                                             |
+|Binary to Decimal Conversion|Take the input in form of only 1s and 0s as long through keypad and accordingly give the output as an int.                                       |
+|Root and Power              |Take input as a double and find the square root and give output in double type. To find power take inputs as int for both number and the exponent|                              |and return output as long.                                                                                                                       |
 
 
