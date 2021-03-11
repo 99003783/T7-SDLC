@@ -74,4 +74,14 @@ Why: For saving time.
 
 How: By operating manually for analog calculators and using screen touch for smart calculators.
 
+# Detail requirements
+## High Level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description 
+
+
+##  Low level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description 
+
 
