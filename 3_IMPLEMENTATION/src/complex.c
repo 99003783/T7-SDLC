@@ -2,7 +2,7 @@
 typedef struct complex {
     float real;
     float imag;
-} complex;1
+} complex;
 
 complex add(complex n1, complex n2);
 complex sub(complex n1, complex n2);
@@ -18,7 +18,7 @@ int main() {
     scanf("%f %f", &n1.real, &n1.imag);
     printf("\nFor 2nd complex number \n");
     printf("Enter the real and imaginary parts: ");
-    scanf("%f %f", &n2.real, &n2.imag);2
+    scanf("%f %f", &n2.real, &n2.imag);
     
 
  

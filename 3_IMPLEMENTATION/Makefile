@@ -6,22 +6,20 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/calculator_operations.c\
-arithmetic_sourav.c\
+src/arithmetic_sourav.c
 
 # All test source files
 TEST_SRC = src/calculator_operations.c\
-arithmetic_sourav.c\
+src/arithmetic_sourav.c\
 test/test_calculator_operations.c\
-Arithmetic_test_operations.c\
-unity/unity.c\
+test/Arithmetic_test_operations.c
+
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe
 
 # All include folders with header files
 INC	= -Iinc\
-calculator_operations\
--Iunity\
+-Iunity
 
 #Library Inlcudes
 #if working with CUnit 
@@ -45,7 +43,7 @@ all: $(SRC) $(BUILD)
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
-	./$(PROJECT_OUTPUT).out
+	./$(PROJECT_OUTPUT).exe
 
 # Document the code using Doxygen
 #doc:
