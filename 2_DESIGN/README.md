@@ -1,15 +1,17 @@
-Designs:
+## Designs:
 
-High Level-
+## High Level-
 
 State Machine-
 ![HLR_state machine](https://user-images.githubusercontent.com/78848590/110743467-14a7a580-825e-11eb-9817-8aaeeab72eca.png)
+
 Class-
+
 ![HLR Class](https://user-images.githubusercontent.com/78848639/110761696-0c5b6480-8276-11eb-9dee-50298a330f4a.jpg)
 
 
 
-Low Level-
+## Low Level-
 
 Component Diagram-
 ![component](https://user-images.githubusercontent.com/78848590/110652292-3ebb8200-81e2-11eb-9356-3d276e5f68e3.png)
