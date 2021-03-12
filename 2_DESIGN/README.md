@@ -20,6 +20,7 @@ Deployment Diagram-
 ![deployment](https://user-images.githubusercontent.com/78848590/110652514-7296a780-81e2-11eb-94d0-624132f8430e.png)
 
 Object Diagram:
+
 ![LLR Object](https://user-images.githubusercontent.com/78848639/110761775-209f6180-8276-11eb-95a7-679723ce1950.jpg)
 
 Use Case Diagram:
