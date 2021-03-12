@@ -4,13 +4,11 @@ PROJECT_NAME = Calculator
 # Output directory
 BUILD = build
  
- 
-SRC = project_main.c\
+# All source code files
+SRC = src/aman.c\
 src/arithmetic_sourav.c\
-src/aman.c\
 test/test_calculator_operations.c\
-unity/unity.c\
-
+unity/unity.c
  
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
  
@@ -50,5 +48,17 @@ run:$(PROJECT_NAME)
 test:$(BUILD)
 	gcc $(SRC) $(INC) -o $(TEST_OUTPUT) -lm
 	./$(TEST_OUTPUT)
+ 
+# Remove all the built files, invoke by `make clean`
+analysis:	
+	cppcheck $(SRC)	
+	
+memcheck: $(PROJECT_NAME).out
+	valgrind ./$(PROJECT_NAME).out
 
-
+clean:
+	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
+	
+# Create new build folder if not present
+$(BUILD):
+	mkdir build
