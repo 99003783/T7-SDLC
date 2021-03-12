@@ -11,7 +11,4 @@ int subtract(int input1,int input2);//Subtraction function
 int multiply(int input1,int input2);//Multiply function
 int divide(int input1,int input2);//Divide function
 int modulus(int input1,int input2);//Modulus function
-int srt(int operand1);
-int btod(long long operand1);
-int power(int operand1, int operand2);
 #endif

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "arithmetic_sourav.h"
 #include "math.h"
+#include "aman.h"
 
 /* Status of the operation requested */
 #define VALID   (1)
