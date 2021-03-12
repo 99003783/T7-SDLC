@@ -1,8 +1,10 @@
 #include "unity.h"
-#include <calculator_operations.h>
-
+//#include <calculator_operations.h>
+//#include<amiya.h>
+#include<aman.h>
+#include<arithmetic_sourav.h>
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
+//#include <calculator_operations.h>
 #define PROJECT_NAME    "Calculator"
 
 /* Prototypes for all the test functions */
@@ -14,6 +16,7 @@ void test_divide(void);
 void test_squareroot(void);
 void test_btod(void);
 void test_power(void);
+void test_modulus(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -32,9 +35,12 @@ int main()
   RUN_TEST(test_subtract);
   RUN_TEST(test_multiply);
   RUN_TEST(test_divide);
+  RUN_TEST(test_modulus);
   RUN_TEST(test_squareroot);
   RUN_TEST(test_btod);
   RUN_TEST(test_power);
+
+
 
   /* Close the Unity Test Framework */
   return UNITY_END();
@@ -48,27 +54,30 @@ void test_add(void) {
 void test_add_testcase2(void) {
  
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1500, add(750, 7500));
+ // TEST_ASSERT_EQUAL(1500, add(750, 7500));
 }
 void test_subtract(void) {
   TEST_ASSERT_EQUAL(-3, subtract(0, 3));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, subtract(1000, 900));
+  //TEST_ASSERT_EQUAL(1, subtract(1000, 900));
 }
 
 void test_multiply(void) {
   TEST_ASSERT_EQUAL(0, multiply(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, multiply(2, 5));
+  //TEST_ASSERT_EQUAL(2, multiply(2, 5));
 }
 
 void test_divide(void) {
   TEST_ASSERT_EQUAL(0, divide(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, divide(2, 2));
+  //TEST_ASSERT_EQUAL(3, divide(2, 2));
+}
+void test_modulus(void){
+  TEST_ASSERT_EQUAL(0,modulus(10,5));
 }
 
 void test_squareroot(void) {
@@ -80,3 +89,5 @@ void test_btod(void) {
 void test_power(void){
   TEST_ASSERT_EQUAL(1728, pow(12,3));
 }
+
+

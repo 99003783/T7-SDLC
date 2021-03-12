@@ -1,5 +1,5 @@
 #include "aman.h"
-
+#include <stdio.h>
 int btod(long long N) {
     int dec = 0, i = 0, r ;
     while (N!= 0) {
