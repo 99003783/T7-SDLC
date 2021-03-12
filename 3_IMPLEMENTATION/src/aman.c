@@ -9,7 +9,7 @@ int btod(long long N) {
         ++i;
     }
     return dec;
-}
+} // binary to decimal
 int srt(int n)
 {
     return srt(n);
