@@ -97,3 +97,26 @@ How: By operating manually for analog calculators and using screen touch for sma
 | :-:                        | :-:                                                                                                                                     |
 |Binary to Decimal Conversion|Take the input in form of only 1s and 0s as long through keypad and accordingly give the output as an int.                               |
 |Root and Power              |Take input as a double and find the square root and give output in double type. To find power take inputs as int for both number and the |       |                            |exponent and return output as long.                                                                                                      |
+|Arithmetic Operations       |Addition:Input validation: check the ASCII value range of the user input numbers.Input type: integer, float.                             |
+|                            |Operation: Take two inputs from the user and check the data type.                                                                        |
+|                            |If the inputs are in float data type; the results will be in floating point.If the inputs are in integer data type;                      | 
+|                            |the result will be in integer data type.If the inputs are in combination of integer as well as floating type;                            |
+|                            |then the result should be in floating type.                                                                                              |
+|                            |Subtraction:Input validation: check the ASCII value range of the user input numbers.Input type: integer, float.                          |
+|                            |Operation: Take two inputs from the user and check the data type.Sign of both the input values must be considered and accordingly the    |      |                            |subtraction operation must be performed. If the inputs are in float data type; the results will be in floating point.If the inputs are in|      |                            |integer data type; the result will be in integer data type.If the inputs are in combination of integer as well as floating type; then the|
+|                            |result should be in floating type.                                                                                                       |
+|                            |Multiplication:Input validation: Check the ASCII value range of the user input numbers. Also check the sign of the user input numbers.   |
+|                            |Input type: integer, float. Operation: Take two inputs from the user and check the data type.Sign of both the input values must be       |
+|                            |considered and accordingly the multiplication operation must be performed. If the inputs are in float data type; the results will be in  | 
+|                            |floating point.If the inputs are in integer data type; the result will be in integer data type.If the inputs are in combination of integer| 
+|                            |as well as floating type; then the result should be in floating type.                                                                     |
+|                            |Division:Input Validation: Check the ASCII value range of the user input numbers.Also check the sign of the user input numbers.           |
+|                            |Divide by zero is not possible. Input type: integer, float.Operation: Take two inputs from the user and check the data type.              |
+|                            |Sign of both the input values must be considered and accordingly the division operation must be performed.                                |
+|                            |If the inputs are in float data type; the results will be in floating point.If the inputs are in integer data type; the result will be in |     |                            |integer data type.If the inputs                                                                                                           |
+|                            |are in combination of integer as well as floating type; then the result should be in floating type.                                       |
+|Memory Storage              | A history button is created which shows the last five stored results.When the user hits the HISTORY button it will display the last five |
+|                            |stored value. Operation: Works with arrays.                                                                                               |                                                                                                       
+
+
+
