@@ -6,7 +6,8 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/arithmetic_sourav.c
+src/arithmetic_sourav.c\
+src/aman.c
 
 # All test source files
 TEST_SRC = src/calculator_operations.c\
