@@ -23,7 +23,7 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 99003777| Aman Srivastava | Feature A, B etc | X No           | X No          |X No         |X No     
 99003778| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No  
 99003783| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No
-99003785| Sourav Dey      | Arithmetic Operation| X No           | X No          |X No         |X No
+99003785| Sourav Dey      | Arithmetic Operation and Memory Storage| X No           | X No          |X No         |X No
         
 ## Challenges Faced and How Was It Overcome
 
