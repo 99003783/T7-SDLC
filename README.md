@@ -21,10 +21,10 @@ Folder             | Description
 PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ------- |-----------------|----------------  |----------------|---------------|-------------|--------------
 99003777| Aman Srivastava | Feature A, B etc | X No           | X No          |X No         |X No     
-`DEF`   | 12345678        | Feature C, D etc | X No           | X No          |X No         |X No  
-`DEF`   | 12345678        | Feature C, D etc | X No           | X No          |X No         |X No
-`DEF`   | 12345678        | Feature C, D etc | X No           | X No          |X No         |X No
-
+99003778| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No  
+99003783| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No
+99003785| Sourav Dey      | Arithmetic       | X No           | X No          |X No         |X No
+        |                 | Operation        |                |               |             |
 ## Challenges Faced and How Was It Overcome
 
 1. ABC
