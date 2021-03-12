@@ -38,7 +38,7 @@ int main(int argc, char *argv[])
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
-    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5.Modulus\n6. Square root\n7. Binary to Decimal\n8. Power\n9. Exit");
+    printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Modulus\n6. Square root\n7. Binary to Decimal\n8. Power\n9. Exit");
 
     printf("\n\tEnter your choice\n");
    
