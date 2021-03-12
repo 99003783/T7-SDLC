@@ -15,8 +15,6 @@ src/arithmetic_sourav.c\
 src/aman.c\
 unity/unity.c\
 
-
-
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe
 
 # All include folders with header files
