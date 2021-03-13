@@ -45,15 +45,15 @@ run:$(PROJECT_NAME)
  
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(SRC) $(INC) -o $(TEST_OUTPUT).exe -lm
+	gcc $(SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
- 
+
 # Remove all the built files, invoke by `make clean`
 analysis:	
 	cppcheck $(SRC)	
 	
-#memcheck: $(PROJECT_NAME).exe
-#	valgrind ./$(PROJECT_NAME).exe
+memcheck: $(PROJECT_NAME).exe
+	valgrind ./$(PROJECT_NAME).exe
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
