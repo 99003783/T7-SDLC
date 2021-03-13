@@ -7,8 +7,9 @@ BUILD = build
 # All source code files
 SRC = src/aman.c\
 src/arithmetic_sourav.c\
+src/jyothi.c\
 test/test_calculator_operations.c\
-unity/unity.c
+unity/unity.c\
  
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
  
