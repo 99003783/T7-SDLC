@@ -8,6 +8,7 @@ BUILD = build
 SRC = src/arithmetic_sourav.c\
 test/test_calculator_operations.c\
 unity/unity.c\
+
  
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).exe
  
@@ -45,7 +46,7 @@ run:$(PROJECT_NAME)
  
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(SRC) $(INC) -o $(TEST_OUTPUT)
+	gcc $(SRC) $(INC) -o $(TEST_OUTPUT).exe -lm
 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
