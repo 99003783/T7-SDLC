@@ -22,8 +22,8 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 ------- |-----------------|----------------  |----------------|---------------|-------------|--------------
 99003777| Aman Srivastava | Feature A, B etc | X No           | X No          |X No         |X No     
 99003778| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No  
-99003783| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No
-99003785| Sourav Dey      | Arithmetic Operation and Memory Storage| X No           | X No          |X No         |X No
+99003783| 12345678        | Feature C, D etc | X         | X No          |X No         |X No
+99003785| Sourav Dey      | Arithmetic Operation and Memory Storage| 3          | 3         |6        |6
         
 ## Challenges Faced and How Was It Overcome
 
@@ -37,3 +37,12 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+
+[![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)
+
+[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)
