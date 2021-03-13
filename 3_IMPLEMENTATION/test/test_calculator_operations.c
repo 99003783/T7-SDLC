@@ -13,10 +13,11 @@ void test_add_testcase2(void);
 void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
-void test_squareroot(void);
-void test_btod(void);
-void test_power(void);
 void test_modulus(void);
+//void test_squareroot(void);
+//void test_btod(void);
+//void test_power(void);
+
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -36,9 +37,9 @@ int main()
   RUN_TEST(test_multiply);
   RUN_TEST(test_divide);
   RUN_TEST(test_modulus);
-  RUN_TEST(test_squareroot);
-  RUN_TEST(test_btod);
-  RUN_TEST(test_power);
+  //RUN_TEST(test_squareroot);
+  //RUN_TEST(test_btod);
+  //RUN_TEST(test_power);
 
 
 
@@ -80,7 +81,7 @@ void test_modulus(void){
   TEST_ASSERT_EQUAL(0,modulus(10,5));
 }
 
-void test_squareroot(void) {
+/*void test_squareroot(void) {
   TEST_ASSERT_EQUAL(14, srt(196));
 }
 void test_btod(void) {
@@ -88,6 +89,6 @@ void test_btod(void) {
 }
 void test_power(void){
   TEST_ASSERT_EQUAL(1728, pow(12,3));
-}
+}*/
 
 
