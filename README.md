@@ -44,3 +44,5 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 [![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)
