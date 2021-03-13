@@ -52,8 +52,8 @@ test:$(BUILD)
 analysis:	
 	cppcheck $(SRC)	
 	
-memcheck: $(PROJECT_NAME).exe
-	valgrind ./$(PROJECT_NAME).exe
+#memcheck: $(PROJECT_NAME).exe
+#	valgrind ./$(PROJECT_NAME).exe
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
