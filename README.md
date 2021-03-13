@@ -40,3 +40,5 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 
 
 [![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)
+
+[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)
