@@ -32,8 +32,8 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
         
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
+1. At first we were facing problem with make file later it was overcomed by some research work in that topic.
+2. 
 3. ...
 4. ...
 
