@@ -36,8 +36,7 @@
 | LLR_3_Binary_To_Decimal          |To convert a binary number to decimal number.                                              |Value= 110100  |52|
 | LLR_4_Square_Root  |To find the square root of the input value.|Value= 9.3|3.05|
 | LLR_5_Power |To find the nth power of the given input.|Values= 12,3|1728|
-| LLR_6_Math_Print | For the calculation 2 no.s should be given | 2 3 | 2+ 3
-                                                                           ------ 5 | 
+| LLR_6_Math_Print | For the calculation 2 no.s should be given | inputs and output both should be displayed at one time e.g. 2,3 | 2+ 3     ----- 5 | 
 | LLR_7_Complex_Number | For executing this 4 no.s should be given as input 2 for reals and 2 for imaginary | First complex no.:- Real 2, Imag 3 Second complex no Real 3,Imag 4 | 5+4i |
 
 
