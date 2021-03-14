@@ -30,12 +30,14 @@
 |                            |If one input is positive and other one is negative then the resultant must have negative sign.|Input1=+ve Input2=-ve|Output=-ve|
 |                            |4) If the denominator is zero then the display unit must show error.|Input1 = digit Input2 = zero|Error|
 |                            |If the numerator is zero it must display infinite|Input1=zero Input2= digit|infinite|
-|LLR_6_Memory_Storage        |1)It must display the last five results when the user hits the history button.|History|Last five results |
+|LLR_2_Memory_Storage        |1)It must display the last five results when the user hits the history button.|History|Last five results |
 |                            |2) The history operation starts storing the results from first after switching on the calculator.|OFF |No result |
 |                            |                                                                                                 |ON History|All the results are removed.|       
-
-
-
+| LLR_3_Binary_To_Decimal          |To convert a binary number to decimal number.                                              |Value= 110100  |52|
+| LLR_4_Square_Root  |To find the square root of the input value.|Value= 9.3|3.05|
+| LLR_5_Power |To find the nth power of the given input.|Values= 12,3|1728|
+| Math print | For the calculation 2 no.s should be given | 2 3 | 2+ 3------ 5 | 
+| Complex Number | For executing this 4 no.s should be given as input 2 for reals and 2 for imaginary | First complex no.:- Real 2, Imag 3 Second complex no Real 3,Imag 4 | 5+4i |
 
 
 
