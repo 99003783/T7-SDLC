@@ -5,10 +5,8 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[[![C/C++ CI](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml)]||[![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)|
-|[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)
-
-| |[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)|
+[![C/C++ CI](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml)]||[![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)|
+|[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)|[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)|
 
 
 
@@ -33,7 +31,7 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 ## Challenges Faced and How Was It Overcome
 
 1. At first we were facing problem with make file later it was overcomed by some research work in that topic.
-2. 
+2. Unable to get the test cases passed later some changes have done on test_calculator_operations.c file and it shows all the test cases in terminal.
 3. ...
 4. ...
 
