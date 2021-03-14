@@ -38,7 +38,7 @@ Printing Calculators: These are similar to basic calculator that makes basic ari
 
 
 |Calculator                    |Cost         | Features                                                                                                               |
-| :-:                          | :-:         | :-:                                                                                                                        |
+| :-:                          | :-:         | :-:                                                                                                                    |
 |Basic                         |170          |Addition, Subtraction, Multiplication and Division                                                                      |
 |Scientific                    |750          |log, natural log and trignometric functions                                                                             |
 |Engineer scientific           |1600         |42 built-in Physical Constants                                                                                          |
@@ -118,6 +118,7 @@ How: By operating manually for analog calculators and using screen touch for sma
 |                            |are in combination of integer as well as floating type; then the result should be in floating type.                                       |
 |Memory Storage              |A history button is created which shows the last five stored results.When the user hits the HISTORY button it will display the last five  |
 |                            |stored value. Operation: Works with arrays.                                                                                               |                                                                                                       
-
-
-
+| Complex mode               | It is used to calculate with the real and imaginary numbers in a single mode. |
+| Math Print | It takes the input, calculates it and shows the result as well as the input together. |
+|Trignometric Functions | Finding values for sin(), cos(),tan(),sec(),cosec(),cot() functions.|
+|Exponential functions | To perform logarithmic functions and cube root functions. |
