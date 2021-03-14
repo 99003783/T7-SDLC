@@ -3,8 +3,8 @@
 
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
-#include <conio.h>
+#include <stdlib.h
+
 
 int Sin_func(double RadVal);
 int Cos_func(double RadVal);
