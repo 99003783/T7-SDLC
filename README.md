@@ -24,7 +24,7 @@ Folder             | Description
 PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ------- |-----------------|----------------  |----------------|---------------|-------------|--------------
 99003777| Aman Srivastava | Feature A, B etc | X No           | X No          |X No         |X No     
-99003778| 12345678        | Feature C, D etc | X No           | X No          |X No         |X No  
+99003778| kopaarapu jyothi     | Trignometric,logarithemic and cube root  | 2          | 2        |19        |19  
 99003783| Amiya Kumar Panda| Complex Function and MathPrint | 2        | 3           |8        |8
 99003785| Sourav Dey      | Arithmetic Operation and Memory Storage| 3          | 3         |6        |6
         
