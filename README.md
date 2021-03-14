@@ -5,7 +5,12 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[[![C/C++ CI](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml)]
+[[![C/C++ CI](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/c-cpp.yml)]||[![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)|
+|[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)
+
+| |[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)|
+
+
 
 
 ## Folder Structure
@@ -39,10 +44,8 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
-[![Cppcheck](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/cppcheck.yml)
 
-[![Unit Testing - Unity](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/unity.yml)
 
-[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/CodeQuality_Dynamic.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/99003783/T7_SDLC_CALC/actions/workflows/gitinspector.yml)
+
+
