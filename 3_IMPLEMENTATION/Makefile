@@ -6,6 +6,7 @@ BUILD = build
  
 # All source code files
 SRC = src/aman.c\
+src/amiya.c\
 src/arithmetic_sourav.c\
 src/jyothi.c\
 test/test_calculator_operations.c\
