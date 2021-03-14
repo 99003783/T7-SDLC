@@ -154,11 +154,11 @@ void test_Tan_func1(void)
 }
 void test_Cosec_func1(void)
 {
-      TEST_ASSERT_EQUAL(-2147483648,Cosec_func(30));
+      TEST_ASSERT_EQUAL(1,Cosec_func(30));
 }
 void test_Sec_func1(void)
 {
-      TEST_ASSERT_EQUAL(1,Sec_func(30));
+      TEST_ASSERT_EQUAL(0,Sec_func(30));
 }
 void test_Cot_func1(void)
 {
@@ -172,7 +172,7 @@ void test_Sin_func2(void)
 
 void test_Cos_func2(void)
 {
-     TEST_ASSERT_EQUAL(1,Cos_func(30));
+     TEST_ASSERT_EQUAL(0,Cos_func(30));
 }
 void test_Tan_func2(void)
 {
@@ -180,11 +180,11 @@ void test_Tan_func2(void)
 }
 void test_Cosec_func2(void)
 {
-      TEST_ASSERT_EQUAL(-2147483648,Cosec_func(30));
+      TEST_ASSERT_EQUAL(1,Cosec_func(30));
 }
 void test_Sec_func2(void)
 {
-      TEST_ASSERT_EQUAL(1,Sec_func(30));
+      TEST_ASSERT_EQUAL(0,Sec_func(30));
 }
 void test_Cot_func2(void)
 {
@@ -199,7 +199,7 @@ void test_Sin_func3(void)
 
 void test_Cos_func3(void)
 {
-     TEST_ASSERT_EQUAL(1,Cos_func(30));
+     TEST_ASSERT_EQUAL(0,Cos_func(30));
 }
 void test_Tan_func3(void)
 {
@@ -207,11 +207,11 @@ void test_Tan_func3(void)
 }
 void test_Cosec_func3(void)
 {
-      TEST_ASSERT_EQUAL(-2147483648,Cosec_func(30));
+      TEST_ASSERT_EQUAL(1,Cosec_func(30));
 }
 void test_Sec_func3(void)
 {
-      TEST_ASSERT_EQUAL(1,Sec_func(30));
+      TEST_ASSERT_EQUAL(0,Sec_func(30));
 }
 void test_Cot_func3(void)
 {
