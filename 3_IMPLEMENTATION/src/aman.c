@@ -19,7 +19,7 @@ int srt(int n)
     int squareroot;
     return squareroot;
 }
-
+//squareroot of the input number
 int power(int b, int e){
     int pow=1;
     while(e>0)
