@@ -30,7 +30,7 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 1. At first we were facing problem with make file later it was overcomed by some research work in that topic.
 2. Unable to get the test cases passed later some changes have done on test_calculator_operations.c file and it shows all the test cases in terminal.
 3. Initially, I'm not able to work with make file, I overcome the issue by doing an activity in personal repository.
-4. I faced issues during compilation of program and working with github. My colleagues helped me with clearing of these issues.
+4. Faced issues during compilation of program and working with github. Our colleagues helped us with clearing of these issues.
 
 ## Git Inspector
 ![gitInspect](https://user-images.githubusercontent.com/78848745/111101374-c224fc80-856f-11eb-90bb-a86f19e4a49d.PNG)
