@@ -35,6 +35,10 @@ PS No.  |  Name           |    Features      | Issuess Raised |Issues Resolved|N
 3. ...
 4. ...
 
+## Git Inspector
+![gitInspect](https://user-images.githubusercontent.com/78848745/111101374-c224fc80-856f-11eb-90bb-a86f19e4a49d.PNG)
+
+
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
