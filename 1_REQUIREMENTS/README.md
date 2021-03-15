@@ -122,3 +122,6 @@ How: By operating manually for analog calculators and using screen touch for sma
 | Math Print | It takes the input, calculates it and shows the result as well as the input together. |
 |Trignometric Functions | Finding values for sin(), cos(),tan(),sec(),cosec(),cot() functions.|
 |Exponential functions | To perform logarithmic functions and cube root functions. |
+
+	
+
